@@ -18,9 +18,4 @@ takebackup /etc/hosts
         if [ $? -eq 0 ]; then
         echo "BAckup Success"
         fi
-function testing (){
-echo "Just TEsting Function"
-}
-
-testing
 # END #
